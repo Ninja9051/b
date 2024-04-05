@@ -2,7 +2,7 @@
 4	198	7290277957195597	CMakeFiles/untitled.dir/main.c.obj	70ecd4e278a2c28c
 358	586	7290216160612142	libs/algorithms/libalgorithms.a	4bb23fb37edab8cd
 285	408	7290277959250109	untitled.exe	7c271f862f13d292
-0	173	7340450352733359	build.ninja	e9eff46a78412011
+0	173	7340475560436316	build.ninja	e9eff46a78412011
 210	285	7290277958083220	libs/data_structures/libdata_structures.a	9f70baa885c5f671
 17	210	7290277957315288	libs/data_structures/CMakeFiles/data_structures.dir/bitset/bitset.c.obj	8fdb6af9e8ce2a09
 11	216	7287497455460698	libs/algorithms/CMakeFiles/algorithms.dir/algorithm.c.obj	6b22e5b7e8a9c02b
