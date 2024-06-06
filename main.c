@@ -5,3 +5,4 @@ int main(){
     printf("%d", bitset_checkValue(&a,31));
 
 }
+//hghn
